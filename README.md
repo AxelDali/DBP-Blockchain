@@ -1,7 +1,7 @@
 # 3.3. Practica | Crear un Blockchain con node.js
 ## Profesor: I.S.C. Luis Antonio Ramirez Martinez
 
-*
+***
 Vamos a aplicar nuestros conocimientos adquiridos de Javascript y  de Node.Js para programar un blockchain, para esto sigue los siguientes pasos:
 
 1) Genera una clase Block como modelo con los siguientes atributos: 
